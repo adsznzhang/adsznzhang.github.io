@@ -1,4 +1,99 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by John Doe]]></title><description><![CDATA[Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.]]></description><link>https://github.com/adsznzhang/adsznzhang.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 23 Sep 2019 08:07:56 GMT</lastBuildDate><item><title><![CDATA[The Increment of Exponential Function]]></title><description><![CDATA[What I did by 500 words in a day.]]></description><link>https://github.com/adsznzhang/adsznzhang.github.io.git/posts/500-Words-Everyday/</link><guid isPermaLink="false">https://github.com/adsznzhang/adsznzhang.github.io.git/posts/500-Words-Everyday/</guid><pubDate>Mon, 23 Sep 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Most of time thing or substance changes over time without our attention if you look at microscopically! Unfortunately the most amazing mechanism happens in that moment !&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by John Doe]]></title><description><![CDATA[Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.]]></description><link>https://github.com/adsznzhang/adsznzhang.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 05 Oct 2019 10:50:27 GMT</lastBuildDate><item><title><![CDATA[The Theory of Gravitation]]></title><description><![CDATA[As time flies I want to see what I have done. ]]></description><link>https://github.com/adsznzhang/adsznzhang.github.io.git/posts/Physics-One/</link><guid isPermaLink="false">https://github.com/adsznzhang/adsznzhang.github.io.git/posts/Physics-One/</guid><pubDate>Wed, 25 Sep 2019 22:10:37 GMT</pubDate><content:encoded>&lt;h2 id=&quot;keplers-three-laws-are&quot;&gt;&lt;a href=&quot;#keplers-three-laws-are&quot; aria-label=&quot;keplers three laws are permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Kepler’s Three Laws are:&lt;/h2&gt;
+&lt;h4 id=&quot;1-each-planet-moves-around-the-sun-in-an-ellipse-with-the-sun-at-one-focus&quot;&gt;&lt;a href=&quot;#1-each-planet-moves-around-the-sun-in-an-ellipse-with-the-sun-at-one-focus&quot; aria-label=&quot;1 each planet moves around the sun in an ellipse with the sun at one focus permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Each planet moves around the sun in an ellipse, with the sun at one focus.&lt;/h4&gt;
+&lt;h4 id=&quot;2-the-radius-vector-from-the-sun-to-the-planet-sweeps-out-equal-areas-in-eaula-intervals-of-time&quot;&gt;&lt;a href=&quot;#2-the-radius-vector-from-the-sun-to-the-planet-sweeps-out-equal-areas-in-eaula-intervals-of-time&quot; aria-label=&quot;2 the radius vector from the sun to the planet sweeps out equal areas in eaula intervals of time permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. The radius vector from the sun to the planet sweeps out equal areas in eaula intervals of time.&lt;/h4&gt;
+&lt;h4 id=&quot;3-the-squares-of-the-periods-of-any-two-planets-are-proportional-to-the-cubes-of-the-semimajor-axes-of-their-respective-orbits&quot;&gt;&lt;a href=&quot;#3-the-squares-of-the-periods-of-any-two-planets-are-proportional-to-the-cubes-of-the-semimajor-axes-of-their-respective-orbits&quot; aria-label=&quot;3 the squares of the periods of any two planets are proportional to the cubes of the semimajor axes of their respective orbits permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. The squares of the periods of any two planets are proportional to the cubes of the semimajor axes of their respective orbits.&lt;/h4&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0249a8579cfb4088acaf23fcac068444/98235/image-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaa8hyWBEP/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBP/2gAIAQEAAQUCPOXmbM+hSK5BbqszP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAAYDAQAAAAAAAAAAAAAAAAECEBESISJxof/aAAgBAQAGPwKbkNIVwVWWWr63/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFh8P/aAAgBAQABPyHduKW4HKoEp4zfE7OkG8yXCyU//9oADAMBAAIAAwAAABAAD//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QE7av/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxB3CT//xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhQVFxYaH/2gAIAQEAAT8Q1tFIaHmY6qk11VGkZj6wwX+QQjfXfeygHuMAHzkVauVyruf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/0249a8579cfb4088acaf23fcac068444/01472/image-2.webp 240w,
+/static/0249a8579cfb4088acaf23fcac068444/222bd/image-2.webp 480w,
+/static/0249a8579cfb4088acaf23fcac068444/620b9/image-2.webp 960w,
+/static/0249a8579cfb4088acaf23fcac068444/28063/image-2.webp 1440w,
+/static/0249a8579cfb4088acaf23fcac068444/44134/image-2.webp 1800w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/0249a8579cfb4088acaf23fcac068444/3bc27/image-2.jpg 240w,
+/static/0249a8579cfb4088acaf23fcac068444/98431/image-2.jpg 480w,
+/static/0249a8579cfb4088acaf23fcac068444/b3ee8/image-2.jpg 960w,
+/static/0249a8579cfb4088acaf23fcac068444/b97fe/image-2.jpg 1440w,
+/static/0249a8579cfb4088acaf23fcac068444/98235/image-2.jpg 1800w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/0249a8579cfb4088acaf23fcac068444/b3ee8/image-2.jpg&quot;
+          alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
+          title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Electronic Switch Power One]]></title><description><![CDATA[As time flies I want to see what I have done. ]]></description><link>https://github.com/adsznzhang/adsznzhang.github.io.git/posts/Electronic-Day-One/</link><guid isPermaLink="false">https://github.com/adsznzhang/adsznzhang.github.io.git/posts/Electronic-Day-One/</guid><pubDate>Tue, 24 Sep 2019 23:11:37 GMT</pubDate><content:encoded>&lt;p&gt;开关电源的工作流程：&lt;/p&gt;
+&lt;p&gt;电源-&gt;输入滤波器-&gt;全桥整流-&gt;直流滤波-&gt;开关管-&gt;开关变压器-&gt;输出整流滤波
+交流电源输入经整流滤波成直流&lt;/p&gt;
+&lt;p&gt;通过高频PWM（脉冲宽度调制）信号控制开关管，将那个直流加到开关变压器初级上开关变压器次级感应出高频电压，经整流滤波供给负载输出部分通过一定的电路反馈给控制电路，控制PWM占空比，以达到稳定输出的目的交流电源输入时一般要经过厄流圈一类的东西，过滤掉电网上的干扰，同时也过滤掉电源对电网的干扰;在功率相同时，开关频率越高，开关变压器的体积就越小，但对开关管的要求就越高;开关变压器的次级可以有多个绕组或一个绕组有多个抽头，以得到需要的输出;一般还应该增加一些保护电路，比如空载、短路等保护，否则可能会烧毁开关电源。&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0249a8579cfb4088acaf23fcac068444/98235/image-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaa8hyWBEP/EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMSBBP/2gAIAQEAAQUCPOXmbM+hSK5BbqszP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAHRAAAAYDAQAAAAAAAAAAAAAAAAECEBESISJxof/aAAgBAQAGPwKbkNIVwVWWWr63/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERITFh8P/aAAgBAQABPyHduKW4HKoEp4zfE7OkG8yXCyU//9oADAMBAAIAAwAAABAAD//EABcRAQEBAQAAAAAAAAAAAAAAAAEAETH/2gAIAQMBAT8QE7av/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxB3CT//xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhQVFxYaH/2gAIAQEAAT8Q1tFIaHmY6qk11VGkZj6wwX+QQjfXfeygHuMAHzkVauVyruf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/0249a8579cfb4088acaf23fcac068444/01472/image-2.webp 240w,
+/static/0249a8579cfb4088acaf23fcac068444/222bd/image-2.webp 480w,
+/static/0249a8579cfb4088acaf23fcac068444/620b9/image-2.webp 960w,
+/static/0249a8579cfb4088acaf23fcac068444/28063/image-2.webp 1440w,
+/static/0249a8579cfb4088acaf23fcac068444/44134/image-2.webp 1800w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/0249a8579cfb4088acaf23fcac068444/3bc27/image-2.jpg 240w,
+/static/0249a8579cfb4088acaf23fcac068444/98431/image-2.jpg 480w,
+/static/0249a8579cfb4088acaf23fcac068444/b3ee8/image-2.jpg 960w,
+/static/0249a8579cfb4088acaf23fcac068444/b97fe/image-2.jpg 1440w,
+/static/0249a8579cfb4088acaf23fcac068444/98235/image-2.jpg 1800w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/0249a8579cfb4088acaf23fcac068444/b3ee8/image-2.jpg&quot;
+          alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
+          title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The Increment of Exponential Function]]></title><description><![CDATA[What I did by 500 words in a day.]]></description><link>https://github.com/adsznzhang/adsznzhang.github.io.git/posts/500-Words-Everyday/</link><guid isPermaLink="false">https://github.com/adsznzhang/adsznzhang.github.io.git/posts/500-Words-Everyday/</guid><pubDate>Mon, 23 Sep 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Most of time thing or substance changes over time without our attention if you look at microscopically! Unfortunately the most amazing mechanism happens in that moment !&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
